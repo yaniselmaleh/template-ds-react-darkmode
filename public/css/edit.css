@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.DarkToggle .react-toggle-track{
+    text-shadow: 0 0 #fff;
+    color: transparent;
+    font-size: 12px;
+    width: 50px;
+    height: 24px;
+}
+
+.DarkToggle.react-toggle .react-toggle-track{
+    background: #383838;
+}
+
+.DarkToggle .react-toggle-track-check{
+    margin-top: 12px;
+}
+
+.DarkToggle .react-toggle-track-x{
+    margin-top: 12px;
+}
+
+.react-toggle-thumb{
+    border-color: black !important
+}
+
+.react-toggle--checked:hover:not(.react-toggle--disabled) .react-toggle-track{
+    background-color: #f0f0f0 !important
+}
