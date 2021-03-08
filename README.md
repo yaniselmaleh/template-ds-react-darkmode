@@ -4,15 +4,19 @@
     <img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" alt="Logo" width="80" height="80">
   </a>
   <h3 align="center">Design System - DarkMode</h3>
-  <p align="center">
-    Yanis Elmaleh
-    <br/>
-  </p>
+  
+
+![GitHub contributors](https://img.shields.io/github/contributors/yaniselmaleh/template-ds-react-darkmode?label=Contributeur&style=for-the-badge) ![GitHub last commit](https://img.shields.io/github/last-commit/yaniselmaleh/template-ds-react-darkmode?label=Dernier%20commit&style=for-the-badge) 
+
+
+
 </div>
 
 <!-- ABOUT THE PROJECT -->
 ![gif](./src/img/ds-darkmode-yaniselmaleh.gif)
+
 <br/>
+
 
 ### À propos du site
 Site démo permettant l'utilisation du **DarkMode** sous React, dans l'écosystème du Design System de l'État, avec comme exemple un Header.
